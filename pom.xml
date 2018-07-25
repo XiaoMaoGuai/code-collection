@@ -14,6 +14,7 @@
 
 	<modules>
 		<module>timer-task</module>
+		<module>async-task</module>
 	</modules>
 
 	<!-- 编译插件 -->
